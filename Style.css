@@ -3,6 +3,7 @@
     height: auto;
     border: 1px solid black;
     margin: 0px auto;
+    background-color: antiquewhite;
 }
 .outer h1{
     text-align: left;
