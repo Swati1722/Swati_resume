@@ -1,0 +1,50 @@
+.outer{
+    width :700px;
+    height: auto;
+    border: 1px solid black;
+    margin: 0px auto;
+}
+.outer h1{
+    text-align: left;
+    margin: 60px  0px  0px 50px;
+    font-family: serif;
+}
+.outer p{
+    margin: 0px 0px 0px 50px;
+    font-size: small;
+    font-weight: 100;
+}
+.outer #head2{
+    margin: 0px 0px 0px 57px; 
+    font-weight: 100;
+}
+.outer  #school{
+    margin: 0px 0px 0px 58px;
+    font-weight: 600;
+    font-size: medium;
+
+}
+#school .date{
+    font-weight: 100;
+}
+hr{
+    margin-left: 20px;
+ margin-right: 20px;
+}
+#details 
+{
+    margin: 0px 0px 0px 58px;
+    font-weight: 200;
+    font-size: small;
+}
+
+.outer h6{
+    margin: 0px 0px 0px 58px;
+    font-weight: 1000;
+}
+
+.outer h5{
+    margin: 0px 0px 0px 58px;
+    font-weight: 500;
+    
+}
