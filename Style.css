@@ -3,6 +3,7 @@
     height: auto;
     border: 1px solid black;
     margin: 0px auto;
+    background-color: aquamarine;
 }
 .outer h1{
     text-align: left;
@@ -17,6 +18,7 @@
 .outer #head2{
     margin: 0px 0px 0px 57px; 
     font-weight: 100;
+    color: brown;
 }
 .outer  #school{
     margin: 0px 0px 0px 58px;
